@@ -1,0 +1,10 @@
+Here's the fix:
+
+```python:app.py
+def hello():
+    print("hi")
+```
+
+```js
+console.log("testing clog");
+```
